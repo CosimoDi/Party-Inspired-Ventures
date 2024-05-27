@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>跟党学创业</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background-color: wheat;
+            color: #a60000;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+        }
+        .timeline {
+            padding: 20px;
+            background-color: #ffe5e5;
+            border-radius: 8px;
+        }
+        .leader {
+            padding: 20px;
+            background-color: #ffd1d1;
+            border-radius: 8px;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+        .map {
+            text-align: center;
+        }
+        .bilibili-video iframe {
+            width: 100%;
+            height: 600px; /* 调整高度 */
+            border: none;
+        }
+        .wechat-article {
+            background-color: #e0e0e0;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .wechat-article a {
+            text-decoration: none;
+            color: #1a73e8;
+            font-weight: bold;
+        }
+        .wechat-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        .wechat-card:hover {
+            transform: scale(1.05);
+        }
+        .wechat-card img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .wechat-card-title {
+            margin-top: 15px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+        .wechat-card-description {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>跟党学创业</h1>
+    </header>
+    <section>
+        <h2>中国共产党的成立和早期历史</h2>
+        <p>中国共产党成立于1921年，早期领导人包括陈独秀和李大钊。他们在上海召开了第一次全国代表大会，宣告了党的成立。</p>
+    </section>
+    <section class="timeline">
+        <h2>重要的革命事件和时间节点</h2>
+        <ul>
+            <li>1921年：中国共产党成立</li>
+            <li>1927年：南昌起义</li>
+            <li>1934-1935年：长征</li>
+            <li>1949年：中华人民共和国成立</li>
+        </ul>
+    </section>
+    <section class="leader">
+        <h2>著名领导人的贡献</h2>
+        <p>毛泽东、周恩来、刘少奇、朱德等领导人为中国革命和中华人民共和国的建立做出了巨大的贡献。</p>
+    </section>
+    <section class="gallery">
+        <h2>革命历程相关图片</h2>
+        <img src="C:\Users\陈景鸿\Downloads\切·格瓦拉.jpeg" alt="革命图片1">
+        <img src="C:\Users\陈景鸿\Downloads\5.jpg" alt="革命图片2">
+    </section>
+    <section class="wechat-article">
+        <h2>微信公众号推文</h2>
+        <a href="https://mp.weixin.qq.com/s/-H2sqZ3HDKbf-Za2FKiC-w" target="_blank">查看推文</a>
+    </section>
+    <section class="bilibili-video">
+        <h2>学习我们党史的真正意义在哪？【思维实验室】</h2>
+        <iframe src="https://www.bilibili.com/video/BV1C64y1N7pZ/?share_source=copy_web" frameborder="0" allowfullscreen="true"></iframe>
+    </section>
+</body>
+</html>
